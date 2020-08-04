@@ -7,3 +7,5 @@ double *mtxMul(double *c, double *a, double *b, int n) {
        }
    return c;
 }
+
+teste commit
